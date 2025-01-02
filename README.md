@@ -32,7 +32,7 @@ monopod/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/monopod.git
+git clone https://github.com/joshcoolman-smc/monopod.git
 cd monopod
 ```
 
